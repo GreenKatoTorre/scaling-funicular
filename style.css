@@ -19,6 +19,15 @@ html {
   background-color: #7c43aa;
 }
 
+h1 {
+  color: #70aa43;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 header,
 footer {
   background-color: #562e77;
