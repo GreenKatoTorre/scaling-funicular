@@ -1,25 +1,26 @@
 .imagenconsola {
-    width: 40%;
+  width: 40%;
 }
 .imagenjuego {
-    width: 25%;
+  width: 25%;
 }
 .juegos {
-    border-color: darkslategray;
-    border-style: dotted;
-    border-radius: 5px;
-    background-color: darkblue;
+  border-color: darkslategray;
+  border-style: dotted;
+  border-radius: 5px;
+  background-color: #a666de;
 }
 p.separador {
-    background-color: aquamarine;
+  background-color: #b85dc2;
 }
 html {
-    padding-left: 15px;
+  padding-left: 15px;
+  font-family: sans-serif;
+  background-color: #7c43aa;
 }
 table {
   border-collapse: collapse;
   border: 2px solid rgb(140 140 140);
-  font-family: sans-serif;
   font-size: 0.8rem;
   letter-spacing: 1px;
 }
