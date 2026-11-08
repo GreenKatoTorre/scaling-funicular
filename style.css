@@ -7,7 +7,11 @@
 .juegos {
     border-color: darkslategray;
     border-style: dotted;
+    border-radius: 5px;
     background-color: darkblue;
+}
+p.separador {
+    background-color: aquamarine;
 }
 html {
     padding-left: 15px;
