@@ -26,6 +26,8 @@ h1 {
 .box {
   display: flex;
   flex-wrap: wrap;
+  gap: 16px;
+  background-color: cyan;
 }
 
 header,
